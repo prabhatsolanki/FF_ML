@@ -5,7 +5,10 @@ Requirements:
       3. Pyro
       4. Numpy, Seaborn, Matplotlib, Scipy, Scikit-learn
 
+or just activate:
 
+      source /afs/cern.ch/work/p/prsolank/public/flafenv/bin/activate
+      
 Usage:
 
        python fake_factor_v1p0.py --mode train --synthetic True --N 500000
